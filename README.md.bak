@@ -1,0 +1,5 @@
+# MathAPI Install steps
+## For MathAPI installation
+
+## For testAPI client installation 
+`composer` and `symfony` commands are required for **symfony server** test.
